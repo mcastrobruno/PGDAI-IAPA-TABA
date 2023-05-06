@@ -15,8 +15,8 @@ Bruno Castro - x22155686@student.ncirl.ie
 
 
 1) open the ```config.py``` file and define the configuration values for the following:
-- smtp_server
-- smtp_port
-- smtp_username
-- smtp_password
+- smtp_server: host address for the smtp server
+- smtp_port: port for the smtp server
+- smtp_username: username to authenticate on the smtp server
+- smtp_password: password for the smtp server authentication
 - smtp_enabled = True
