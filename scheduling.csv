@@ -1,0 +1,4 @@
+date_and_time,patient_name,patient_email,patient_phone
+'2023-01-01 12:00:00', 'Bruno Castro', 'testbruno@gmail.com', '025625236'
+'2023-01-01 12:30:00', 'John Doe', 'john.doe@gmail.com', '9999999999'
+'2023-01-01 12:30:00', 'John Test', 'test.account@gmail.com', '7777777777'
