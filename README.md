@@ -8,5 +8,5 @@ Bruno Castro - x22155686@student.ncirl.ie
 2) Run the code ```python main.py``` using terminal
 
 > **Note**
-> If it's the first time you are pushing your changes to the repository, git will request for your to set the upstream branch, just run the following command:
-> <br>``` git push --set-upstream origin [your branch name] ``` for example: ```git push --set-upstream origin bruno```
+> The project is ready to send e-mail using a third part SMTP server such as Mailchimp, Sendgrind, etc
+> But for the purpose of this, there is a config on the ```config.py``` to disable SMTP, in this case the sending will be skipped and a stub version of the email sender will be executed, which will allow to all the steps to be executed.
